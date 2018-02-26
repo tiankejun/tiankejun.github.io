@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# You can open this url to get the first page (https://tiankejun.github.io/index.md)
+## This is test page
 
 You can use the [editor on GitHub](https://github.com/tiankejun/tiankejun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
